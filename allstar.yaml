@@ -1,5 +1,6 @@
 optConfig:
   optOutStrategy: true
+  disableRepoOverride: true
   # optOutPrivateRepos: true
   # optOutPublicRepos: false
   # optOutRepos:
