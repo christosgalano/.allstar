@@ -1,8 +1,3 @@
-# .allstar repository
-
-This repository enables issue creation for all Allstar policies on all repositories with the
-default settings.
-
 # Allstar configuration for christosgalano
 
 [Allstar](https://github.com/ossf/allstar) is a security-policy GitHubApp. It is
@@ -12,31 +7,4 @@ policy.
 
 ## Enabled Repos
 
-Allstar is configured in opt-out. [See here for the list of enabled repos](allstar.yaml). Feel
-free to submit a PR to enable/disable repos.
-
-## Policy Configuration
-These are the expected settings to be in compliance
-
-### [Branch Protection](branch_protection.yaml)
-
-| | |
-| - | - |
-| Branches enforced | default |
-| Require approval | yes |
-| Approvals required | 1 |
-| Dismiss stale reviews | not required |
-| Block force push | yes |
-
-### [Binary Artifacts](binary_artifacts.yaml)
-
-- Binary artifacts not allowed.
-
-### [Outside Collaborators](outside.yaml)
-
-- Push access allowed.
-- Admin access not allowed.
-
-### [SECURITY.md](security.yaml)
-
-- SECURITY.md required.
+Allstar is configured in opt-out.
