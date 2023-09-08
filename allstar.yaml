@@ -1,2 +1,7 @@
 optConfig:
   optOutStrategy: true
+  # optOutPrivateRepos: true
+  # optOutPublicRepos: false
+  # optOutRepos:
+  # - repo-one
+  # - repo-two
