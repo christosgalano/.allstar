@@ -1,5 +1,4 @@
-# Example .allstar Quickstart Repository
+# .allstar ρepository
 
-This repository can be forked into your organization as `.allstar` to quickly
-enable issue creation for all Allstar policies on all repositories with the
+This repository enables issue creation for all Allstar policies on all repositories with the
 default settings.
